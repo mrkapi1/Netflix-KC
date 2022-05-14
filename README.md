@@ -9,6 +9,11 @@ Netflix Clone by Kapil Chaudhari in which Project I have used React, Redux, Axio
 ## Authors
 
 - [@mrkapi1](https://github.com/mrkapi1)
+- 
+
+## Project Link
+
+- [Netflix-KC](https://netflix-kc-b5015.web.app/)
 
 
 ## Features
