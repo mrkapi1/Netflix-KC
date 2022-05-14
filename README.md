@@ -1,4 +1,4 @@
-# Netflix-kc
+# Netflix-KC
  
  
  Project Overview and Description
