@@ -1,6 +1,7 @@
 {
   "name": "netflix-kc",
   "version": "0.1.0",
+  "author" : "Kapil Chaudhari",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
